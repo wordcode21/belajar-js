@@ -1,3 +1,3 @@
 # belajar-js
 
-##check bilangan prima
+## check bilangan prima
